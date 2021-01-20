@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>serial_number</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 03:49:55</sys_created_on>
+        <sys_data_policy display_value="Sets the Serial Number field to mandatory">bd820bf52fb520109a03e33df699b6ab</sys_data_policy>
+        <sys_id>f1820bf52fb520109a03e33df699b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>serial_number</sys_name>
+        <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
+        <sys_update_name>sys_data_policy_rule_f1820bf52fb520109a03e33df699b6af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 03:49:55</sys_updated_on>
+        <table>x_562840_inventory_devices</table>
+    </sys_data_policy_rule>
+</record_update>
