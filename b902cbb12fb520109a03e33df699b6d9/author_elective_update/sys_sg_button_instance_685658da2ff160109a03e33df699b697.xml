@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Multiscan Items">45e288122ff160109a03e33df699b63f</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Scan</label>
+        <location>trailing_swipe</location>
+        <name>Scan</name>
+        <order>10</order>
+        <parent>d050eac22ffd20109a03e33df699b6fc</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 04:34:30</sys_created_on>
+        <sys_id>685658da2ff160109a03e33df699b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scan</sys_name>
+        <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_685658da2ff160109a03e33df699b697</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 04:34:30</sys_updated_on>
+        <table>x_562840_inventory_devices</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=685658da2ff160109a03e33df699b697"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</application>
+        <file_path/>
+        <instance_id>76e4c9e6dba43f0049eac597059619a9</instance_id>
+        <instance_name>dev78721</instance_name>
+        <name>sys_sg_button_instance_685658da2ff160109a03e33df699b697</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Multiscan Items">45e288122ff160109a03e33df699b63f</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Scan</label><location>trailing_swipe</location><name>Scan</name><order>10</order><parent>d050eac22ffd20109a03e33df699b6fc</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 04:34:30</sys_created_on><sys_id>685658da2ff160109a03e33df699b697</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scan</sys_name><sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package><sys_policy/><sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope><sys_update_name>sys_sg_button_instance_685658da2ff160109a03e33df699b697</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 04:34:30</sys_updated_on><table>x_562840_inventory_devices</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=685658da2ff160109a03e33df699b697"/></record_update>]]></payload>
+        <payload_hash>2083837673</payload_hash>
+        <record_name>Scan</record_name>
+        <reverted_from/>
+        <source>8c630ff52fb520109a03e33df699b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 04:34:30</sys_created_on>
+        <sys_id>b05658da2ff160109a03e33df699b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1772338f0b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 04:34:30</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>f85658da94f160103d3bc4487756bb99</update_guid>
+        <update_guid_history>f85658da94f160103d3bc4487756bb99:2083837673</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 05:07:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>7840361b117a4afca71e85983bb5e610</sys_id>
+        <sys_metadata>685658da2ff160109a03e33df699b697</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scan</sys_name>
+        <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
+        <sys_scope_delete display_value="">5df9459b2d904d909039253bacbd4840</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_685658da2ff160109a03e33df699b697</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_685658da2ff160109a03e33df699b697">b05658da2ff160109a03e33df699b69a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 05:07:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
