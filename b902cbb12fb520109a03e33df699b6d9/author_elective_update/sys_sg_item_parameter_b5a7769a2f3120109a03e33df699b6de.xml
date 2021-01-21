@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>snumbers</name>
+        <parent>2b7b2e522f3120109a03e33df699b669</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 16:19:32</sys_created_on>
+        <sys_id>b5a7769a2f3120109a03e33df699b6de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>snumbers</sys_name>
+        <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_b5a7769a2f3120109a03e33df699b6de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 16:19:32</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</application>
+        <file_path/>
+        <instance_id>76e4c9e6dba43f0049eac597059619a9</instance_id>
+        <instance_name>dev78721</instance_name>
+        <name>sys_sg_item_parameter_b5a7769a2f3120109a03e33df699b6de</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>snumbers</name><parent>2b7b2e522f3120109a03e33df699b669</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-21 16:19:32</sys_created_on><sys_id>b5a7769a2f3120109a03e33df699b6de</sys_id><sys_mod_count>0</sys_mod_count><sys_name>snumbers</sys_name><sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package><sys_policy/><sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope><sys_update_name>sys_sg_item_parameter_b5a7769a2f3120109a03e33df699b6de</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-21 16:19:32</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>1707311348</payload_hash>
+        <record_name>snumbers</record_name>
+        <reverted_from/>
+        <source>8c630ff52fb520109a03e33df699b6c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 16:19:32</sys_created_on>
+        <sys_id>d8b7b69a2f3120109a03e33df699b642</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17725be6b140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 16:19:32</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>14b7b69a5a312010f76a343889b71d42</update_guid>
+        <update_guid_history>14b7b69a5a312010f76a343889b71d42:1707311348</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 16:22:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>30d9f26a12da472ab4fef336143135c4</sys_id>
+        <sys_metadata>b5a7769a2f3120109a03e33df699b6de</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>snumbers</sys_name>
+        <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
+        <sys_scope_delete display_value="">5df9459b2d904d909039253bacbd4840</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_b5a7769a2f3120109a03e33df699b6de</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_b5a7769a2f3120109a03e33df699b6de">d8b7b69a2f3120109a03e33df699b642</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 16:22:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

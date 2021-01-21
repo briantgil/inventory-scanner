@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>baeaee347330330018eea18d4ef6a7a8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>auto</input_source>
+        <input_style>inline</input_style>
+        <input_type>user</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>user_name_in_header_greeting</name>
+        <order/>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="Screen for Homepage greeting">00bbe2747330330018eea18d4ef6a7e1</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-11 18:04:01</sys_created_on>
+        <sys_id>baeaee347330330018eea18d4ef6a7a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user_name_in_header_greeting</sys_name>
+        <sys_package display_value="ServiceNow NowMobile App Screens and Applet Launcher" source="sn_me">5cfbdaac77eb2300454792718a106157</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow NowMobile App Screens and Applet Launcher">5cfbdaac77eb2300454792718a106157</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_baeaee347330330018eea18d4ef6a7a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-11 18:04:01</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=baeaee347330330018eea18d4ef6a7a8"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 16:31:26</sys_created_on>
+        <sys_id>be6af21e2f3120109a03e33df699b6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user_name_in_header_greeting</sys_name>
+        <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
+        <sys_update_name>sys_metadata_link_be6af21e2f3120109a03e33df699b6cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 16:31:26</sys_updated_on>
+        <tablename>sys_sg_ui_parameter</tablename>
+    </sys_metadata_link>
+</record_update>

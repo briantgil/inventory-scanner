@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>fd82de6f730123009ecc234ffff6a7c4</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Assigned to Me">4e429e6f730123009ecc234ffff6a74e</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>auto</input_source>
+        <input_style>inline</input_style>
+        <input_type>user</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Assign to</name>
+        <order>0</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-15 19:18:37</sys_created_on>
+        <sys_id>fd82de6f730123009ecc234ffff6a7c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assign to</sys_name>
+        <sys_package display_value="ITSM Mobile" source="sn_itsm_mobile">1b57e525673023005326c3105685ef07</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Mobile">1b57e525673023005326c3105685ef07</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_fd82de6f730123009ecc234ffff6a7c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-15 19:18:37</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd82de6f730123009ecc234ffff6a7c4"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 16:31:27</sys_created_on>
+        <sys_id>c76a361e2f3120109a03e33df699b611</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assign to</sys_name>
+        <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
+        <sys_update_name>sys_metadata_link_c76a361e2f3120109a03e33df699b611</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 16:31:27</sys_updated_on>
+        <tablename>sys_sg_ui_parameter</tablename>
+    </sys_metadata_link>
+</record_update>

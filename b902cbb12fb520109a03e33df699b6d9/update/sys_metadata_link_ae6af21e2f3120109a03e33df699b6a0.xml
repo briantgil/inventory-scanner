@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>9489e9bb9f13230088aebde8132e70ae</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Parent</name>
+        <order>0</order>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="Browse">7059e9bb9f13230088aebde8132e7028</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-05 07:18:23</sys_created_on>
+        <sys_id>9489e9bb9f13230088aebde8132e70ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parent</sys_name>
+        <sys_package display_value="ServiceNow NowMobile App - Knowledge Management Screens and Applet Launcher" source="sn_km_mr">b3a70c8a530323004c36ddeeff7b124c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow NowMobile App - Knowledge Management Screens and Applet Launcher">b3a70c8a530323004c36ddeeff7b124c</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_9489e9bb9f13230088aebde8132e70ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-22 23:38:33</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=9489e9bb9f13230088aebde8132e70ae"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-21 16:31:25</sys_created_on>
+        <sys_id>ae6af21e2f3120109a03e33df699b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parent</sys_name>
+        <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
+        <sys_update_name>sys_metadata_link_ae6af21e2f3120109a03e33df699b6a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-21 16:31:25</sys_updated_on>
+        <tablename>sys_sg_ui_parameter</tablename>
+    </sys_metadata_link>
+</record_update>
