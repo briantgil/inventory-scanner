@@ -2,17 +2,17 @@
     <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
         <description/>
         <execution_script><![CDATA[(function WriteBackAction(input) {
-    //Type appropriate comment here, and begin script below
+    //multiscan serial numbers, and then iterate through them to create a separate database record for each
 	
-	var table = "x_562840_inventory_devices";
+	var table = "x_562840_inventory_devices";  //custom mobile app db table
 	
 	for (i=0; i<input.add_asset.length; i++){
-		var grNew = new GlideRecord(table);
-		grNew.serial_number = input.add_asset[i]["Serial Numbers"];
+		var grNew = new GlideRecord(table);   //create new db record reference
+		grNew.serial_number = input.add_asset[i]["Serial Number"];   //assign scanned value to db record field
 		grNew.insert();
     }
 		
- gs.addInfoMessage("Successfully ran writeback-action");
+ gs.addInfoMessage("Successfully ran writeback-actions");
 	
 })(input);]]></execution_script>
         <name>Multiscan Items</name>
@@ -21,14 +21,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-21 15:26:35</sys_created_on>
         <sys_id>2b7b2e522f3120109a03e33df699b669</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Multiscan Items</sys_name>
         <sys_package display_value="Inventory Scanner" source="x_562840_inventory">b902cbb12fb520109a03e33df699b6d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Inventory Scanner">b902cbb12fb520109a03e33df699b6d9</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_2b7b2e522f3120109a03e33df699b669</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-21 18:42:25</sys_updated_on>
+        <sys_updated_on>2021-01-22 16:59:45</sys_updated_on>
         <table/>
         <template/>
         <type>script</type>
